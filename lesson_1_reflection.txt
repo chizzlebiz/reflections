@@ -1,0 +1,5 @@
+git log - gets file history
+git checkout - tries a previous commit
+git 
+q - ends process
+ctrl z - closes everything     
