@@ -1,5 +1,16 @@
+git init - initialize directory
 git log - gets file history
 git checkout - tries a previous commit
 git 
 q - ends process
-ctrl z - closes everything     
+ctrl z - closes everything 
+add this line to .bash profile to use sublime alias subl="C:/Program\ Files/Sublime\ Text\ 2/sublime_text.exe"    
+
+setting up git with windows
+
+git config --global core.editor "'C:/Program Files/Sublime Text 2/sublime_text.exe' -n -w"
+git config --global push.default upstream
+git config --global merge.conflictstyle diff3
+
+-a = all
+-v = verbose
