@@ -10,3 +10,6 @@ git branch *new part* creates copy in new part  (checkout new part to switch)
 git show - shows parent
 git branch -d *branch name* - deletes branch
 git log --graph --oneline  -gives one line for updates
+
+
+some stuff added on github (remotely)
