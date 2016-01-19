@@ -1,1 +1,12 @@
-git add
+git add (to staging)
+git status (staging area status)
+git commit (commit staging area)
+gitk - opens up a windows type interface with log details
+git diff  (no arguments) difference between staging area and working directory
+git diff --staged (difference between staging area and repository)
+git reset --hard (removes any changes permanently in working and keeps staged)
+git branch - tells you what branch u are in
+git branch *new part* creates copy in new part  (checkout new part to switch)
+git show - shows parent
+git branch -d *branch name* - deletes branch
+git log --graph --oneline  -gives one line for updates
